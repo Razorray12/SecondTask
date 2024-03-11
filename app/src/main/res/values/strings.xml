@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">SecondTask</string>
+    <string name="hello_message">Hello</string>
+</resources>
